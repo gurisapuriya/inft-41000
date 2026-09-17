@@ -1,1 +1,1 @@
-FraudGuard project status: in progress
+FraudGuard project status: Week 1 complete
