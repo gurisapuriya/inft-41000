@@ -1,0 +1,13 @@
+# INFT 41000 — FraudGuard project requirements
+# Cumulative across all 10 weeks. Re-run `pip install -r requirements.txt`
+# at the start of each new week in case new packages were added.
+
+# --- Week 1 ---
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+joblib>=1.3
+jupyter>=1.0
+ipykernel>=6.25
